@@ -12,7 +12,7 @@ const routes = [
     name: 'index',
     component: () => import('./components/billRecord.vue'),
     meta: {
-      title: '爱琦记'
+      title: '记账本'
     }
   }
 ];
